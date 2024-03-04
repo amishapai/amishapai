@@ -6,7 +6,7 @@ Hi there 👋 I'm Amisha
         4) EcoSensor Connect- A portable device with NodeMCU that detects air quality and dust, transfers these readings to ThingSpeak to be shown as graphs and then to MatLab, to perform various ML operations on it to find data trends.
         5) Ink and Insights- A python ML model, that analyses NSO's literacy survery from 2012-2018 and predict the factors that affect literacy and predict the literacy rate in the upcoming years.
 - 🔭 I’m currently working on: Nodejs, JAVA
-- 🌱 I’m currently learning- C, WebDev 
+- 🌱 I’m currently learning- C, PyTorch
 - 📫 How to reach me: https://www.linkedin.com/in/amisha-pai/)https://www.linkedin.com/in/amisha-pai/
 
 
