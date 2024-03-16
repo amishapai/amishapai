@@ -1,4 +1,4 @@
-## ☕️ About me:
+## 👋 About:
 Hello! I'm Amisha Pai, a student at RV College of Engineering with a relentless passion for coding and innovation. I've been on an exciting journey in the world of technology from a young age, starting my coding adventure in primary school. Over the years, I've honed my skills and garnered valuable experiences. 
 
 ## 🔭 What I do?
