@@ -7,8 +7,8 @@ In the realm of innovation, I've taken steps to develop solutions that matter. I
 ## 🛠️ Tools and tech I use:
 Python, JAVA, JavaScript, Node.js, HTML, Thunkable
 
-##🌱 I’m currently learning
+## 🌱 I’m currently learning
 C, Python Flask, Pytorch, Sci-kit 
 
-##📫 How to reach me:
+## 📫 How to reach me:
 https://www.linkedin.com/in/amisha-pai/
