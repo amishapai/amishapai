@@ -7,6 +7,6 @@ Hi there 👋 I'm Amisha
         5) Ink and Insights- A python ML model, that analyses NSO's literacy survery from 2012-2018 and predict the factors that affect literacy and predict the literacy rate in the upcoming years.
 - 🔭 I’m currently working on: Nodejs, JAVA
 - 🌱 I’m currently learning- C, PyTorch
-- 📫 How to reach me: https://www.linkedin.com/in/amisha-pai/)https://www.linkedin.com/in/amisha-pai/
+- 📫 How to reach me: https://www.linkedin.com/in/amisha-pai/
 
 
