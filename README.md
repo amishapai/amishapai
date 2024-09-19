@@ -1,3 +1,3 @@
 ## 👋 About:
 Hello! I'm Amisha Pai.
-LinkdIn: https://www.linkedin.com/in/amisha-pai/
+## LinkedIn: https://www.linkedin.com/in/amisha-pai/
