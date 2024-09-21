@@ -1,6 +1,6 @@
 ## 👋 About:
 Hello! I'm Amisha Pai.
-## LinkedIn: 
+## 📫 LinkedIn: 
 https://www.linkedin.com/in/amisha-pai/
-## Portfolio:
+## 💻 Portfolio:
 https://portfolio-amisha.vercel.app/
